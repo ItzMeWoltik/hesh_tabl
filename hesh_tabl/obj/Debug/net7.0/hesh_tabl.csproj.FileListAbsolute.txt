@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\hesh_tabl\hesh_tabl\bin\Debug\net7.0\hesh_tabl.exe
+C:\Users\admin\Desktop\hesh_tabl\hesh_tabl\bin\Debug\net7.0\hesh_tabl.deps.json
+C:\Users\admin\Desktop\hesh_tabl\hesh_tabl\bin\Debug\net7.0\hesh_tabl.runtimeconfig.json
+C:\Users\admin\Desktop\hesh_tabl\hesh_tabl\bin\Debug\net7.0\hesh_tabl.dll
+C:\Users\admin\Desktop\hesh_tabl\hesh_tabl\bin\Debug\net7.0\hesh_tabl.pdb
+C:\Users\admin\Desktop\hesh_tabl\hesh_tabl\obj\Debug\net7.0\hesh_tabl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\hesh_tabl\hesh_tabl\obj\Debug\net7.0\hesh_tabl.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\hesh_tabl\hesh_tabl\obj\Debug\net7.0\hesh_tabl.AssemblyInfo.cs
+C:\Users\admin\Desktop\hesh_tabl\hesh_tabl\obj\Debug\net7.0\hesh_tabl.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\hesh_tabl\hesh_tabl\obj\Debug\net7.0\hesh_tabl.dll
+C:\Users\admin\Desktop\hesh_tabl\hesh_tabl\obj\Debug\net7.0\refint\hesh_tabl.dll
+C:\Users\admin\Desktop\hesh_tabl\hesh_tabl\obj\Debug\net7.0\hesh_tabl.pdb
+C:\Users\admin\Desktop\hesh_tabl\hesh_tabl\obj\Debug\net7.0\hesh_tabl.genruntimeconfig.cache
+C:\Users\admin\Desktop\hesh_tabl\hesh_tabl\obj\Debug\net7.0\ref\hesh_tabl.dll
